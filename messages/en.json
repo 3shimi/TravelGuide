@@ -1,0 +1,42 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "search": "Search",
+    "filter": "Filter",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "share": "Share"
+  },
+  "navigation": {
+    "home": "Home",
+    "restaurants": "Restaurants", 
+    "itineraries": "Itineraries",
+    "community": "Community",
+    "about": "About"
+  },
+  "home": {
+    "title": "Travel Guide for Taiwan",
+    "subtitle": "Discover Taiwan through the eyes of locals and fellow travelers",
+    "searchPlaceholder": "Search restaurants, attractions, or experiences...",
+    "featuredItineraries": "Featured Itineraries",
+    "popularRestaurants": "Popular Restaurants",
+    "communityHighlights": "Community Highlights"
+  },
+  "restaurants": {
+    "title": "Restaurants",
+    "menuTranslation": "Menu Translation",
+    "priceRange": "Price Range",
+    "foreignerFriendly": "Foreigner Friendly",
+    "walkingTime": "Walking Time",
+    "nearestMRT": "Nearest MRT"
+  },
+  "itineraries": {
+    "title": "Itineraries",
+    "days": "days",
+    "createNew": "Create New Itinerary",
+    "template": "Template",
+    "customize": "Customize"
+  }
+}

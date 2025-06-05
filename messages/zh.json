@@ -1,0 +1,42 @@
+{
+  "common": {
+    "loading": "載入中...",
+    "search": "搜尋",
+    "filter": "篩選",
+    "save": "儲存",
+    "cancel": "取消",
+    "edit": "編輯",
+    "delete": "刪除",
+    "share": "分享"
+  },
+  "navigation": {
+    "home": "首頁",
+    "restaurants": "餐廳", 
+    "itineraries": "行程",
+    "community": "社群",
+    "about": "關於我們"
+  },
+  "home": {
+    "title": "台灣旅遊指南",
+    "subtitle": "透過在地人和旅行者的視角探索台灣",
+    "searchPlaceholder": "搜尋餐廳、景點或體驗...",
+    "featuredItineraries": "精選行程",
+    "popularRestaurants": "熱門餐廳",
+    "communityHighlights": "社群精選"
+  },
+  "restaurants": {
+    "title": "餐廳",
+    "menuTranslation": "菜單翻譯",
+    "priceRange": "價格區間",
+    "foreignerFriendly": "外國人友善",
+    "walkingTime": "步行時間",
+    "nearestMRT": "最近捷運站"
+  },
+  "itineraries": {
+    "title": "行程規劃",
+    "days": "天",
+    "createNew": "建立新行程",
+    "template": "範本",
+    "customize": "客製化"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "search": "検索",
+    "filter": "フィルター",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "edit": "編集",
+    "delete": "削除",
+    "share": "共有"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "restaurants": "レストラン", 
+    "itineraries": "旅程",
+    "community": "コミュニティ",
+    "about": "について"
+  },
+  "home": {
+    "title": "台湾旅行ガイド",
+    "subtitle": "地元の人と旅行者の視点で台湾を発見",
+    "searchPlaceholder": "レストラン、観光地、体験を検索...",
+    "featuredItineraries": "おすすめ旅程",
+    "popularRestaurants": "人気レストラン",
+    "communityHighlights": "コミュニティハイライト"
+  },
+  "restaurants": {
+    "title": "レストラン",
+    "menuTranslation": "メニュー翻訳",
+    "priceRange": "価格帯",
+    "foreignerFriendly": "外国人フレンドリー",
+    "walkingTime": "徒歩時間",
+    "nearestMRT": "最寄りMRT"
+  },
+  "itineraries": {
+    "title": "旅程プラン",
+    "days": "日",
+    "createNew": "新しい旅程を作成",
+    "template": "テンプレート",
+    "customize": "カスタマイズ"
+  }
+}
